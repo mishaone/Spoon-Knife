@@ -1,2 +1,2 @@
 This is a test file created from the command line.
-
+This is a new line.
